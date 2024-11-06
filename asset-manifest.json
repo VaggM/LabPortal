@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lab-schedule-gui/static/css/main.1600de7d.css",
-    "main.js": "/lab-schedule-gui/static/js/main.db6c9648.js",
-    "index.html": "/lab-schedule-gui/index.html",
-    "main.1600de7d.css.map": "/lab-schedule-gui/static/css/main.1600de7d.css.map",
-    "main.db6c9648.js.map": "/lab-schedule-gui/static/js/main.db6c9648.js.map"
+    "main.css": "/LabPortal/static/css/main.1600de7d.css",
+    "main.js": "/LabPortal/static/js/main.db6c9648.js",
+    "index.html": "/LabPortal/index.html",
+    "main.1600de7d.css.map": "/LabPortal/static/css/main.1600de7d.css.map",
+    "main.db6c9648.js.map": "/LabPortal/static/js/main.db6c9648.js.map"
   },
   "entrypoints": [
     "static/css/main.1600de7d.css",
