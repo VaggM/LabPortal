@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lab-schedule-gui/static/css/main.dff85f5c.css",
-    "main.js": "/lab-schedule-gui/static/js/main.2eaf2972.js",
+    "main.css": "/lab-schedule-gui/static/css/main.1600de7d.css",
+    "main.js": "/lab-schedule-gui/static/js/main.7a9b842d.js",
     "index.html": "/lab-schedule-gui/index.html",
-    "main.dff85f5c.css.map": "/lab-schedule-gui/static/css/main.dff85f5c.css.map",
-    "main.2eaf2972.js.map": "/lab-schedule-gui/static/js/main.2eaf2972.js.map"
+    "main.1600de7d.css.map": "/lab-schedule-gui/static/css/main.1600de7d.css.map",
+    "main.7a9b842d.js.map": "/lab-schedule-gui/static/js/main.7a9b842d.js.map"
   },
   "entrypoints": [
-    "static/css/main.dff85f5c.css",
-    "static/js/main.2eaf2972.js"
+    "static/css/main.1600de7d.css",
+    "static/js/main.7a9b842d.js"
   ]
 }
